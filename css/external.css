@@ -1,0 +1,23 @@
+body {
+    background-color: #BFDCE5;
+}
+h1 {
+    color: red;
+}
+/*
+img {
+    background-color: red;
+}
+*/
+.logo {
+    background-color: red;
+}
+.logo1 {
+    background-color: green;
+}
+#heading {
+    color: #0F6292;
+}
+p:hover {
+    font-size: 150%;
+}
